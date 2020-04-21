@@ -1,0 +1,3 @@
+rootProject.name='SignatureSDK'
+include ':app'
+include ':signaturelib'
